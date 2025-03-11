@@ -1,4 +1,4 @@
-# Wazuh Agent Installation Script
+# Wazuh Agent Installation Script(rockylinux)
 
 This repository contains a Bash script for automating the installation of the Wazuh agent on CentOS/RHEL systems.
 
